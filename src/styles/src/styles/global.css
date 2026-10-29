@@ -1,0 +1,31 @@
+/* Reset */
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    background-color: var(--color-black);
+    --font-color:#ffffff;
+}
+
+:root{
+    --color-primary: #F5B700;
+    --color-surface: #ffffff;
+    --color-black: #000000;
+    --color-gray: #2A2A2A;
+    --color-foreground: #05213F;
+
+    --font-size-h1: 40px;
+    --font-size-h2: 35px;
+    --font-size-h3: 30px;
+    --font-size-h4: 25px;
+    --font-size-h5: 20px;
+
+    --font-title: "Squada One - Regular", sans-serif;
+    --font-body: "Inter", sans-serif;
+    --font-button: "Michroma - Regular", sans-serif;
+    --font-color:#ffffff;
+}
+
